@@ -9,7 +9,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Built with](#built-with)
   - [Continued development](#continued-development)
   - [Author](#author)
-  - [Notes](#notes)
+  - [Live](#live)
 
 ## Overview
 
@@ -37,4 +37,7 @@ Users should be able to:
 - GitHub - [Iole](https://github.com/d4lbit)
 - Frontend Mentor - [@d4lbit](https://www.frontendmentor.io/profile/d4lbit)
 
+## Live
+
+https://d4lbit.github.io/femordersummary/
 
